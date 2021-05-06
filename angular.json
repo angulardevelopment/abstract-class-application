@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "mock"
+  "defaultProject": "mock",
+  "cli": {
+    "analytics": false
+  }
 }
